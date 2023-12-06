@@ -1,2 +1,1 @@
-#openai_key="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"
-openai_key="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"
+openai_key="YOUR API KEY"
